@@ -1,3 +1,5 @@
+![Open Source at Starxlab](https://github.com/starxlab/.github/blob/main/Img/Starxlab.png)
+
 # Starx Lab
 
 Welcome to Starx Lab! We're thrilled to have you here. This repository serves as a space for collaboration, experimentation, and innovation.
