@@ -21,8 +21,8 @@ By participating in Starx Lab, you agree to uphold these principles and contribu
 
 Thank you for your interest in Starx Lab! As of now, we have:
 
-- **Visitors**: [![Profile views](https://komarev.com/ghpvc/?username=starxlab)](https://github.com/starxlab)
-- **Followers**: ![GitHub Followers](https://img.shields.io/github/followers/starxlab?style=social)
+ [![Profile views](https://komarev.com/ghpvc/?username=starxlab)](https://github.com/starxlab)
+ ![GitHub Followers](https://img.shields.io/github/followers/starxlab?style=social)
 
 Feel free to explore our projects and join our community! If you have any questions or feedback, don't hesitate to reach out.
 
